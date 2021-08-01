@@ -1,0 +1,155 @@
+IDE - Integrated Development Environment
+
+1. Simplilearn Lab
+
+2. Local Anaconda jupyter notebook
+
+3. Google Colab - https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+
+4. Kaggle notebooks
+
+y = f(x)
+
+
+Knowledge = f ( TIME, Pre-Req Knowledge )
+--------------------------------------------
+
+Make your Profile - 
+
+Engineer - Product Manager - Data Analyst - Data Scientist
+
+To get a job / start a business
+________________________________
+* Knowledge Pre-req for Non-Tech (Product Manager - Data Analyst)
+    * Product Management - Booming
+    * Project Management
+    * Domain 
+        * Supply Chain
+        * BFSI
+        * eCommerce
+        * Healthcare
+        * X - Quality - Horizontal
+        * Credit and Fraud Risk - Naeem Syed
+        * Finance and Accounting
+        * FMCG
+
+Tech (Coding)
+    * Fresher
+        * Engineering
+            * Full stack Engineering
+                * Coding
+                * ML Knowledge
+            * Data Engineering
+            * DevOps & Testing
+        * Data Scientist
+            * Data Analyst       
+    * Experienced
+        * Engineering
+            * Full stack Engineering
+            * Data Engineering
+            * DevOps & Testing
+        * Data Scientist
+            * Data Analyst
+            * Data Scientist
+                * ML Knowledge
+
+Automation
+Product Owner - Build chatbot
+
+Requirement / User stories / Features - Product Manager
+User Journey - PM
+Divide into chunks - Tasks and USer stories - Dev - Me
+Data from source systems - data engineering
+Web interface - Full stack
+integrate slack, fb messenger, telegram - channels
+tinder, boom - a2a
+test - development selenium
+
+Homework for today
+
+* Create your Github Profile
+* Read about purpose of Software configuration Management system
+* Create your kaggle Profile
+* Install git bash in your windows machine
+    * https://git-scm.com/downloads
+* Install Anaconda in your machine
+    * https://www.anaconda.com/products/individual
+* Try creating a notebook in Simplilearn LMS
+    * if you face any issue log a ticket w SL
+* Try creating a notebook in Google Colab
+    * https://colab.research.google.com/
+
+
+******
+
+* Github Profile
+* Linkedin Profile
+* Kaggle Profile
+* CV
+
+
+Pre-Requisites
+
+What is industry looking in data Scientist?
+
+Kind of Orgs
+* Core Tech Companies (GAFAM, Flipkart)
+* Captive Centers (Optum UHG, Walgreens, Barclays, Amex, DE Shaw, Goldman, Tower Capital, MentorGraphics, Intel)
+----------------Initial Targets---------------------
+* Consulting Orgs (Accenture, Infosys, TCS, Cognizant, IBM Services)
+* Startups - Product development
+
+-------------
+Course Details
+
+1. Introduction to Machine Learning, Data Science, AI
+
+2. Data Wrangling, Cleaning using Python
+    - Numpy
+    - Pandas
+    - Visualization using matplotlib and Pandas
+
+3. Regression - Supervised Machine Learning
+    * Linear Reg
+        * Simple
+        * Multiple
+        * Polynomial
+    * Regularization
+        * Lasso
+        * Ridge
+        * Elasticnet
+
+4. Classification - Supervised Machine Learning
+    * Logistic Reg
+    * SVM
+    * Naive Bayes
+    * Decision Tree
+
+5. Ensemble Modeling 
+    * Random Forest
+    * XGBoost
+    * Adaboost
+
+6. Feature Engineering
+    * PCA
+    * Factor Analysis
+
+7. Unsupervised Learning
+
+8. Recommendation systems
+    * Build a Recommendation model and keep improving it with advanced techniques
+
+9. Natural Language Processing or Text Mining
+
+10. Time Series Analysis
+    * Datetime handling using Pandas
+    * Statsmodels implementation
+    * Moving Averages
+    * ETS models, EWMA models
+    * ARIMA - Auto regressive Integrated Moving Average models
+    * Statistical Tests in Time Series
+
+11. Project Submission - 
+
+
+---------------
